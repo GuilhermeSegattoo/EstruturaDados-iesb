@@ -1,0 +1,12 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "dever de casa",
+  "main": "iesbNota.js",
+  "scripts": {
+    "dev": "node iesbNota.js",
+    "test": "teste"
+  },
+  "author": "",
+  "license": "ISC"
+}
